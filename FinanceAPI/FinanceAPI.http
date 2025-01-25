@@ -1,0 +1,5 @@
+@address = http://localhost:5255
+
+GET {{address}}/api/incomes
+
+###
